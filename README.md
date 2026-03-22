@@ -39,7 +39,7 @@ const Sanupa Sathnidu = {
 ```
 
 <p align="center">
-  <img src="./assests/snake.svg" width="2100" />
+  <img src=".snake.svg" width="2100" />
 </p>
 
 ###
